@@ -1,1 +1,1 @@
-# Birthday Wish Web Application
+# Birthday Wishing Web Application
